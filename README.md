@@ -22,3 +22,6 @@ Here's a simplified explanation of SQL using common terms:
 6. Delete Statement: The DELETE statement is used to remove data from a table. It allows you to specify the conditions to identify the rows you want to delete. For instance, you can use DELETE to remove all orders that are older than a certain date.
 
 These are just a few basic concepts of SQL. SQL is a powerful language that offers more advanced features like joining tables, aggregating data, creating and modifying database structures, and much more. However, understanding these fundamental concepts will give you a good starting point for working with SQL and relational databases.
+
+### CRUD opration in SQL
+### Stored Procedure of CRUD operations
