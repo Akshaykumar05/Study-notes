@@ -1,0 +1,31 @@
+### Stored Procedure of CRUD operation.
+
+CREATE TABLE CRUDSP(ID INT IDENTITY(1,1) PRIMARY KEY, Name VARCHAR(100), Age INT, Address VARCHAR(100));
+SELECT *FROM CRUDSP
+
+EXEC usp_Employee_Management 0,'',0,'','SELECT'
+EXEC usp_Employee_Management 0,'Raj',29,'London','INSERT'
+EXEC usp_Employee_Management 2,'John',32,'India','UPDATE'
+EXEC usp_Employee_Management 4,'',0,'','DELETE'
+
+CREATE PROC usp_Employee_Management(@ID INT, @Name VARCHAR(100), @Age INT, @Address VARCHAR(100), @Type VARCHAR(100))
+AS
+BEGIN
+
+     IF @Type = 'SELECT'
+	 BEGIN
+	    SELECT *FROM CRUDSP;
+	 END;
+	  IF @Type = 'INSERT'
+	 BEGIN
+	    INSERT INTO CRUDSP(Name,Age,Address) VALUES(@Name,@Age,@Address);
+	 END
+	  IF @Type = 'UPDATE'
+	 BEGIN
+	     UPDATE CRUDSP SET Name =@Name ,Age =@Age ,Address =@Address WHERE ID = @ID;
+     END
+	 IF @Type = 'DELETE'
+	 BEGIN
+	    DELETE FROM CRUDSP WHERE ID =@ID
+	 END;
+END;
