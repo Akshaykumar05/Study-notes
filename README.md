@@ -27,3 +27,8 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ### Stored Procedure of CRUD operations
 ### Microservices
 ### 3-tier Architecture
+### API (Application Programming Interface)
+* An API is a set of programming code that enables data transmission between one software product and another.
+#### How do APIs work?
+* The working principle of an API is commonly expressed through the request-response communication between a client and a server. The client is any front-end application that a user interacts with. The server is in charge of backend logic and database operations. In this scenario, an API works as a middle layer between the client and the server, making it possible to send data requests and responses.
+![](https://www.altexsoft.com/media/2019/06/1.png)
