@@ -32,3 +32,8 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 #### How do APIs work?
 * The working principle of an API is commonly expressed through the request-response communication between a client and a server. The client is any front-end application that a user interacts with. The server is in charge of backend logic and database operations. In this scenario, an API works as a middle layer between the client and the server, making it possible to send data requests and responses.
 ![](https://www.altexsoft.com/media/2019/06/1.png)
+
+### NumPy
+* NumPy is a general purpose array processing package. It provides a high performance multidimentional array object and tools for working with these arrays. It is the fundamental package for scientific computing with python.
+
+  
