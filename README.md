@@ -36,4 +36,5 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ### NumPy
 * NumPy is a general purpose array processing package. It provides a high performance multidimentional array object and tools for working with these arrays. It is the fundamental package for scientific computing with python.
 
+### Panda
   
