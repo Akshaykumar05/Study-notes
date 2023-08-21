@@ -25,8 +25,10 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
 ### CRUD opration in SQL
 ### Stored Procedure of CRUD operations
-### Microservices
 ### 3-tier Architecture
+
+## Developer Notes
+
 ### API (Application Programming Interface)
 * An API is a set of programming code that enables data transmission between one software product and another.
 #### How do APIs work?
@@ -37,6 +39,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * NumPy is a general purpose array processing package. It provides a high performance multidimentional array object and tools for working with these arrays. It is the fundamental package for scientific computing with python.
 
 ### Panda
-### API
+### OOPs-Concepts
+### Microservices
 ### Integration
   
