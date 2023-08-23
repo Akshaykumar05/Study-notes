@@ -38,7 +38,23 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ### NumPy
 * NumPy is a general purpose array processing package. It provides a high performance multidimentional array object and tools for working with these arrays. It is the fundamental package for scientific computing with python.
 
-### Panda
+### Pandas
+#### What is Pandas?
+* Pandas is a Python library used for working with data sets.
+* It has functions for analyzing, cleaning, exploring, and manipulating data.
+* The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by **Wes McKinney** in 2008.
+#### Why Use Pandas?
+* Pandas allows us to analyze big data and make conclusions based on statistical theories.
+* Pandas can clean messy data sets, and make them readable and relevant.
+* Relevant data is very important in data science.
+#### What Can Pandas Do?
+1. Pandas gives you answers about the data. Like:
+* Is there a correlation between two or more columns?
+* What is average value?
+* Max value?
+* Min value?
+2. Pandas are also able to delete rows that are not relevant, or contains wrong values, like empty or NULL values. This is called cleaning the data.
+  
 ### OOPs-Concepts
 * Major OOP (object-oriented programming) concepts in Python include Class, Object, Method, Inheritance, Polymorphism, Data Abstraction, and Encapsulation.
 
