@@ -60,4 +60,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
 ### Microservices
 ### Integration
+### JSON (JavaScript Object Notation)
+*  JSON is a lightweight format for storing and transporting data. It is often used when data is sent from a server to a web page.
+*  JSON is a popular data format used for representing **structured data**. It is common to transmit and receive data between a server and web application in JSON format.
   
