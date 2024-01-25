@@ -63,4 +63,8 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ### JSON (JavaScript Object Notation)
 *  JSON is a lightweight format for storing and transporting data. It is often used when data is sent from a server to a web page.
 *  JSON is a popular data format used for representing **structured data**. It is common to transmit and receive data between a server and web application in JSON format.
-  
+
+### Static website Vs Dynamic website
+* A static website is made up of a fixed number of pre-built files stored on a web server. These files are written in HTML, CSS, and JavaScript, which are called “client-side” languages because they execute in the user’s web browser. When a user requests a page from the server with a URL, the server returns the HTML file that is specified by the URL and any accompanying CSS and/or JavaScript files.
+* Unlike a static website that displays the same content to all visitors in the same format, a dynamic website presents different information to different visitors. The content that a visitor sees can be determined by several factors, such as their location, local time, settings and preferences, and/or actions they’re taken on the website (e.g., shopping habits).
+* [Blog](https://blog.hubspot.com/website/static-vs-dynamic-website#:~:text=The%20difference%20between%20static%20websites,different%20information%20to%20different%20visitors.)
