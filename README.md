@@ -3,6 +3,7 @@
 ## SQL
 ## .NET
 ## Azure Integration Services (AIS)
+## GitLab
 
 ### Explain for me SQL in simplest way
 * **SQL (Structured Query Language)** is a programming language used to manage and manipulate relational databases. It provides a way to communicate with databases and perform operations such as retrieving, inserting, updating, and deleting data. (SQL is a standard language for accessing and manipulating databases.)
@@ -68,3 +69,6 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * A static website is made up of a fixed number of pre-built files stored on a web server. These files are written in HTML, CSS, and JavaScript, which are called “client-side” languages because they execute in the user’s web browser. When a user requests a page from the server with a URL, the server returns the HTML file that is specified by the URL and any accompanying CSS and/or JavaScript files.
 * Unlike a static website that displays the same content to all visitors in the same format, a dynamic website presents different information to different visitors. The content that a visitor sees can be determined by several factors, such as their location, local time, settings and preferences, and/or actions they’re taken on the website (e.g., shopping habits).
 * [Blog](https://blog.hubspot.com/website/static-vs-dynamic-website#:~:text=The%20difference%20between%20static%20websites,different%20information%20to%20different%20visitors.)
+
+### GitLab
+* GitLab is a web-based Git repository that provides free open and private repositories, issue-following capabilities, and wikis. It is a complete DevOps platform that enables professionals to perform all the tasks in a project—from project planning and source code management to monitoring and security.
