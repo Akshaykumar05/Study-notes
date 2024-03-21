@@ -72,3 +72,8 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
 ### GitLab
 * GitLab is a web-based Git repository that provides free open and private repositories, issue-following capabilities, and wikis. It is a complete DevOps platform that enables professionals to perform all the tasks in a project—from project planning and source code management to monitoring and security.
+
+# National Informatics Centre (NIC)
+### Monitoring
+* Zabbix
+* Graphana
