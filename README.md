@@ -75,5 +75,5 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
 # National Informatics Centre (NIC)
 ### Monitoring
-* Zabbix
-* Graphana
+* **Zabbix**: Zabbix is an open source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services.
+* **Graphana**: Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
