@@ -80,4 +80,5 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
 ### Red Hat Certified System Administrator (RHCSA) exam
 * The Red Hat Certified System Administrator (RHCSA) exam is a performance-based certification exam offered by Red Hat. It assesses the knowledge and skills required to perform core system administration tasks in Red Hat Enterprise Linux environments. The RHCSA certification is widely recognized in the industry and demonstrates proficiency in managing Red Hat Linux systems.
-* Machine: H/W ==> OS ==> application
+* Machine: H/W ==> OS ==> application ==> Project ==> Tools.
+* 
