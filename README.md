@@ -81,4 +81,8 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ### Red Hat Certified System Administrator (RHCSA) exam
 * The Red Hat Certified System Administrator (RHCSA) exam is a performance-based certification exam offered by Red Hat. It assesses the knowledge and skills required to perform core system administration tasks in Red Hat Enterprise Linux environments. The RHCSA certification is widely recognized in the industry and demonstrates proficiency in managing Red Hat Linux systems.
 * Machine: H/W ==> OS ==> application ==> Project ==> Tools.
-* 
+
+### Network Security
+![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/08db8119-e2d4-403b-9f5f-4adb38b685c5)
+
+* Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies.
