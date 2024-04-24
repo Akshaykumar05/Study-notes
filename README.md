@@ -86,3 +86,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 ![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/08db8119-e2d4-403b-9f5f-4adb38b685c5)
 
 * Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies.
+  #### Encryption
+  ![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/8bfe2b9c-dc3f-4b0d-bfbd-53519ac66cc5)
+ * In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
+  
