@@ -90,3 +90,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
   ![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/8bfe2b9c-dc3f-4b0d-bfbd-53519ac66cc5)
  * In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
   
+### CCNA (Cisco Certified Networking Associate)
+* It is an certification from CISCO system.
+* It's an assiciate -level Cisco Career Certificate.
+  1. Centralised Computing
