@@ -94,3 +94,9 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * It is an certification from CISCO system.
 * It's an assiciate -level Cisco Career Certificate.
   1. Centralised Computing
+  2. Distributed Computing
+
+  ### Common Network Devices to Know
+  1. Router
+  2. Switch
+  3. Firewall
