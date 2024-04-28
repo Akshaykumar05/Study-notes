@@ -98,5 +98,16 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
   ### Common Network Devices to Know
   1. Router
-  2. Switch
-  3. Firewall
+     * Discover distributed network
+     * Choose best path
+     * Maintaining Routing Table.
+  3. Switch
+     * Layer 2 / Layer 3 Device
+     * It communicates with multiple devices.
+     * Break Broadcast/Increase Bandwidth
+     * Technologies - VTP, STP, VLAN, Routing.
+     * MAC base forwarding/Security.
+  5. Firewall
+  6. Access Point
+
+  ### IP Address and Subnetting
