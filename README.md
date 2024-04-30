@@ -111,3 +111,4 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
   6. Access Point
 
   ### IP Address and Subnetting
+  * Can be ranged from 1 to 150
