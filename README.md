@@ -107,6 +107,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
      * Break Broadcast/Increase Bandwidth
      * Technologies - VTP, STP, VLAN, Routing.
      * MAC base forwarding/Security.
+     * [watch this video](https://www.youtube.com/watch?v=9eH16Fxeb9o)
   5. Firewall
   6. Access Point
 
