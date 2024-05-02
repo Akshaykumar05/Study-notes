@@ -1,11 +1,17 @@
 # Study-notes
+* This repo contains my learnings on the go.
+  
+## Topics:
+### SQL
+### .NET
+### Azure Integration Services (AIS)
+### GitLab
+### Monitoring
+### Nerwork Security
+### CCNA
+### Database: PostgreSQL
 
 ## SQL
-## .NET
-## Azure Integration Services (AIS)
-## GitLab
-
-### Explain for me SQL in simplest way
 * **SQL (Structured Query Language)** is a programming language used to manage and manipulate relational databases. It provides a way to communicate with databases and perform operations such as retrieving, inserting, updating, and deleting data. (SQL is a standard language for accessing and manipulating databases.)
 
 Here's a simplified explanation of SQL using common terms:
@@ -70,19 +76,19 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * Unlike a static website that displays the same content to all visitors in the same format, a dynamic website presents different information to different visitors. The content that a visitor sees can be determined by several factors, such as their location, local time, settings and preferences, and/or actions they’re taken on the website (e.g., shopping habits).
 * [Blog](https://blog.hubspot.com/website/static-vs-dynamic-website#:~:text=The%20difference%20between%20static%20websites,different%20information%20to%20different%20visitors.)
 
-### GitLab
+## GitLab
 * GitLab is a web-based Git repository that provides free open and private repositories, issue-following capabilities, and wikis. It is a complete DevOps platform that enables professionals to perform all the tasks in a project—from project planning and source code management to monitoring and security.
 
 # National Informatics Centre (NIC)
-### Monitoring
+## Monitoring
 * **Zabbix**: Zabbix is an open source monitoring software tool for diverse IT components, including networks, servers, virtual machines (VMs) and cloud services.
 * **Graphana**: Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
 
-### Red Hat Certified System Administrator (RHCSA) exam
+## Red Hat Certified System Administrator (RHCSA) exam
 * The Red Hat Certified System Administrator (RHCSA) exam is a performance-based certification exam offered by Red Hat. It assesses the knowledge and skills required to perform core system administration tasks in Red Hat Enterprise Linux environments. The RHCSA certification is widely recognized in the industry and demonstrates proficiency in managing Red Hat Linux systems.
 * Machine: H/W ==> OS ==> application ==> Project ==> Tools.
 
-### Network Security
+## Network Security
 ![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/08db8119-e2d4-403b-9f5f-4adb38b685c5)
 
 * Network security is a broad term that covers a multitude of technologies, devices and processes. In its simplest term, it is a set of rules and configurations designed to protect the integrity, confidentiality and accessibility of computer networks and data using both software and hardware technologies.
@@ -90,7 +96,7 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
   ![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/8bfe2b9c-dc3f-4b0d-bfbd-53519ac66cc5)
  * In cryptography, encryption is the process of encoding information. This process converts the original representation of the information, known as plaintext, into an alternative form known as ciphertext. Ideally, only authorized parties can decipher a ciphertext back to plaintext and access the original information.
   
-### CCNA (Cisco Certified Networking Associate)
+## CCNA (Cisco Certified Networking Associate)
 * It is an certification from CISCO system.
 * It's an assiciate -level Cisco Career Certificate.
   1. Centralised Computing
@@ -113,3 +119,5 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
   ### IP Address and Subnetting
   * Can be ranged from 1 to 150
+ 
+## Database: PostgreSQL.
