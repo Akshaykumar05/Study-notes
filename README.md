@@ -124,3 +124,5 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * **Database:** A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS)
 * **Structured Query Language (SQL):** SQL is a programming language used by nearly all relational databases to query, manipulate, and define data, and to provide access control. SQL was first developed at IBM in the 1970s with Oracle as a major contributor, which led to implementation of the SQL ANSI standard, SQL has spurred many extensions from companies such as IBM, Oracle, and Microsoft.
 * **PostgreSQL:** It is an advanced, enterprise-class open-source relational database that supports both SQL (relational) and JSON (non-relational) querying. It is a highly stable database management system backed by more than 20 years of community development.
+
+  ### DDL and DML in DBMS
