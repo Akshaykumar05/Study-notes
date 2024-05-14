@@ -10,6 +10,7 @@
 ### Nerwork Security
 ### CCNA
 ### Database: PostgreSQL
+### Palo Alto: Network Security
 
 ## SQL
 * **SQL (Structured Query Language)** is a programming language used to manage and manipulate relational databases. It provides a way to communicate with databases and perform operations such as retrieving, inserting, updating, and deleting data. (SQL is a standard language for accessing and manipulating databases.)
