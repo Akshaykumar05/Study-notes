@@ -119,10 +119,10 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
   6. Access Point
 
   ### IP Address and Subnetting
-  * Can be ranged from 1 to 150
-  * Subnet: A subnet, or subnetwork is a segmented piece of a larger network.
+  * Can be ranged from 1 to 150, Means one can connect upto 254 internet-enabled devices such as phones, laptops, IoT gadgets & others to home network to access internet.
+  * * **Subnet**: A subnet, or subnetwork is a segmented piece of a larger network. Subnet are a logical partition of an IP network into multiple, smaller network segments.
+  * For ex: a home network has a standard subnet mask of 255.255.255.0. This implies using 254 usable IP address within the defined network.
 
-Subnet are a logical partition of an IP network into multiple, smaller network segments.
  
 ## Database: PostgreSQL.
 * **Database:** A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS)
