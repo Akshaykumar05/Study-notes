@@ -120,6 +120,9 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 
   ### IP Address and Subnetting
   * Can be ranged from 1 to 150
+  * Subnet: A subnet, or subnetwork is a segmented piece of a larger network.
+
+Subnet are a logical partition of an IP network into multiple, smaller network segments.
  
 ## Database: PostgreSQL.
 * **Database:** A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS)
