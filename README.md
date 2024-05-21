@@ -35,6 +35,8 @@ Here's a simplified explanation of SQL using common terms:
 
 These are just a few basic concepts of SQL. SQL is a powerful language that offers more advanced features like joining tables, aggregating data, creating and modifying database structures, and much more. However, understanding these fundamental concepts will give you a good starting point for working with SQL and relational databases.
 
+* [SQL Resource Video](https://www.youtube.com/watch?v=Bp703NkC00Q&list=PPSV)
+
 ### CRUD opration in SQL
 ### Stored Procedure of CRUD operations
 ### 3-tier Architecture
