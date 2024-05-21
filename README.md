@@ -1,4 +1,7 @@
 # Study-notes
+![image](https://github.com/Akshaykumar05/Study-notes/assets/114390890/70aaf691-09a9-41f2-9f5d-737c51884e6d)
+
+
 * This repo contains my learnings on the go.
   
 ## Topics:
@@ -11,6 +14,7 @@
 ### CCNA
 ### Database: PostgreSQL
 ### Palo Alto: Network Security
+### Git
 
 ## SQL
 * **SQL (Structured Query Language)** is a programming language used to manage and manipulate relational databases. It provides a way to communicate with databases and perform operations such as retrieving, inserting, updating, and deleting data. (SQL is a standard language for accessing and manipulating databases.)
@@ -130,3 +134,10 @@ These are just a few basic concepts of SQL. SQL is a powerful language that offe
 * **PostgreSQL:** It is an advanced, enterprise-class open-source relational database that supports both SQL (relational) and JSON (non-relational) querying. It is a highly stable database management system backed by more than 20 years of community development.
 
   ### DDL and DML in DBMS
+
+ ### Git Commands
+ * git status
+ * git diff
+ * git add file.name
+ * git commit "Statement"
+ * git log
